@@ -1,0 +1,33 @@
+_repo: Myths-of-the-Cherokeeof-American-Ethnology_45634
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45634-h/images/new-cover-tn.jpg
+creator:
+  author:
+    agent_name: Mooney, James
+    birthdate: 1861
+    deathdate: 1921
+    gutenberg_agent_id: '26733'
+    url: http://www.gutenberg.org/2009/agents/26733
+description: '"... comprising 126 Cherokee myths, including sacred stories, animal
+  myths, local legends, wonder stories, historical traditions and miscellaneous myths
+  and legends."'
+gutenberg_issued: '2014-05-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45634'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cherokee Indians -- History'
+- !lcsh 'Cherokee Indians -- Folklore'
+- !lcsh 'Cherokee mythology'
+- !lcsh 'Legends -- Southern States'
+- !lcc 'E011'
+- !lcsh 'Tales -- Southern States'
+title: "Myths of the Cherokee\r\nExtract from the Nineteenth Annual Report of the\
+  \ Bureau of American Ethnology"
+url: http://www.gutenberg.org/ebooks/45634
